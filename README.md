@@ -8,11 +8,11 @@ USB：OK，
 睡眠/唤醒：OK
 HDMI输出：OK
 
- 1.jpg 
+
 这是我2016年 618的时候京东买的一台笔记本，已经过去三年了，本着不浪费 不抛弃 能用继续用的原则，开始了这次黑果之旅，cpu是 i5 4210H   独显960m(无解) 集显HD4600（能用） 无线网卡（无解）下的是黑果小兵大大最新的10.14.6安装包：
 https://blog.daliansky.net/macOS-Mojave-10.14.6-18G84-Release-version-with-Clover-5027-original-image.html
 
- 2.png 
+
 
 接下来，使用TransMac 写入一个8G优盘
 
@@ -36,7 +36,7 @@ https://blog.daliansky.net/macOS-Mojave-10.14.6-18G84-Release-version-with-Clove
 3. CAP LOCK 这个按键切换的时候那个指示灯得等会自己熄灭，倒是不影响使用。
 
 4.简单的跑了个geekbench4的跑分，给大家看一下，跟朋友的macbook pro 16年上半年的跑分非常接近
- 3.png 
+
 
 安装建议： 
 
